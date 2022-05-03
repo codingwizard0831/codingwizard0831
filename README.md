@@ -1,12 +1,21 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>I'm Shohel, Frontend Engineer from <img src="https://flagcdn.com/16x12/bd.png" width="13"/> <b>Dhaka, Bangladesh</b></p>
+<p>I'm Senior Full Stack Web Developer & Blockchain Developer</p>
 
 **What if you like my work?**
+Client satisfaction is my primary objective.
+I love my job. Every project is a journey that brings new friends and gives self-fulfillment.
+I work towards understanding my client's specific needs, providing the best solutions based on my experience. A well-going project requires regular communication. I'm open to any communication channels (Upwork, Asana, Jira, Basecamp, etc.)
+In my work, all actions are aimed at achieving the best outcomes.
+I love my job, and I am always looking for improvement and progression in my career.
 
-- You can Star ⭐ the repositories you like. 
-- You can react ❤️ to my Linkedin posts.
+If you are looking for a team member with talent and potential growth, I am the right person for you!
+I'm a detail-oriented person, in my work I'm using only the best practices and innovative technologies.
+In fact, I indeed love to code or develop something, and it brings me pleasure 🙂
+
+I do things that simplify people's lives and make it possible for me to feel important to the world. I hope that our cooperation will definitely bring a profit to your project and I will do my best to achieve all the set goals!
+
 <br>
 
 ## 🛠️ Languages and Tools:
@@ -17,8 +26,6 @@
   <img alt="ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />  
-  <img alt="angularjs" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />  
   <img alt="VueJs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=white" />   
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -39,10 +46,3 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />  
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />   
 </p>
-
-## Crunching The Numbers
-[![Shohel's github stats](https://github-readme-stats.vercel.app/api?username=mdshohelrana&show_icons=true&theme=merko)](https://github.com/mdshohelrana/github-readme-stats)
-<br>
-
-## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdshohelrana&show_icons=true&theme=merko)](https://github.com/mdshohelrana/github-readme-stats)
