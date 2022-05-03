@@ -3,7 +3,6 @@
 
 <p>I'm Senior Full Stack Web Developer & Blockchain Developer</p>
 
-**What if you like my work?**
 Client satisfaction is my primary objective.
 I love my job. Every project is a journey that brings new friends and gives self-fulfillment.
 I work towards understanding my client's specific needs, providing the best solutions based on my experience. A well-going project requires regular communication. I'm open to any communication channels (Upwork, Asana, Jira, Basecamp, etc.)
