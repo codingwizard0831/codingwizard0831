@@ -23,7 +23,7 @@ A professional face-to-face part with high performance that users are familiar w
 
 <!-- ### Hi there 👋 -->
 <h1 align="center">Hello there 👋, fellow DEVELOPERS!</h1>
-<h3 align="center">I'm a passionate Software Developer from India.</h3>
+<h3 align="center">I'm a Senior Full Stack Developer.</h3>
 
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  -->
 <br>
@@ -32,14 +32,6 @@ A professional face-to-face part with high performance that users are familiar w
   <br><br>
 </p>
 
-<p align="left">
-<hr>
-<div align="center">
-  
-  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Anirudh!;I'm+a+Software+Developer.;❤+CPP+Java+LeetCode+;I+❤+DSA..)](https://git.io/typing-svg)
-</div>
 <hr>
 
 
@@ -50,7 +42,7 @@ A professional face-to-face part with high performance that users are familiar w
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<div><tr><div valign="top" width="33%">
 
 
 
@@ -75,7 +67,7 @@ A professional face-to-face part with high performance that users are familiar w
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</div><div valign="top" width="33%">
 
 
 
@@ -95,7 +87,7 @@ A professional face-to-face part with high performance that users are familiar w
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />
 </div>
 
-</td><td valign="top" width="33%">
+</div><div valign="top" width="33%">
 
 
 
@@ -118,7 +110,7 @@ A professional face-to-face part with high performance that users are familiar w
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>
 
-</td></tr></table>  
+</div></tr></div>  
 
 
 <hr>
