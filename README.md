@@ -42,7 +42,7 @@ A professional face-to-face part with high performance that users are familiar w
 
 
 ## My Skill Set  
-<div><tr><div valign="top" width="33%">
+<table><tr><td valign="top" width="33%">
 
 
 
@@ -67,7 +67,7 @@ A professional face-to-face part with high performance that users are familiar w
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 </div>
 
-</div><div valign="top" width="33%">
+</td><td valign="top" width="33%">
 
 
 
@@ -87,7 +87,7 @@ A professional face-to-face part with high performance that users are familiar w
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />
 </div>
 
-</div><div valign="top" width="33%">
+</td><td valign="top" width="33%">
 
 
 
@@ -110,7 +110,7 @@ A professional face-to-face part with high performance that users are familiar w
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>
 
-</div></tr></div>  
+</td></tr></table>  
 
 
 <hr>
