@@ -3,8 +3,11 @@
 </div>  
   
 
-### <div align="center">I'am Prince Brown.
-I am a full stack developer with more than 4 years of development experience and I can proudly say that I am a great frontend developer and a capable backend developer.
+### <div align="center">
+I am a highly-skilled full-stack developer with over 6 years of experience in React development.
+I am proficient in translating designs into high-quality code and implementing highlyresponsive user interface components with React concepts.
+My primary focus is on Web and Blockchain development. 
+I am keen on writing clean and reusable code using best practices
 </div>  
   
 
