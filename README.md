@@ -45,9 +45,6 @@ A professional face-to-face part with high performance that users are familiar w
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -70,10 +67,6 @@ A professional face-to-face part with high performance that users are familiar w
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
 ### Backend  
 <div align="center">   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
@@ -89,10 +82,6 @@ A professional face-to-face part with high performance that users are familiar w
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />
 </div>
-
-</td><td valign="top" width="33%">
-
-
 
 ### DevOps  
 <div align="center">  
@@ -113,7 +102,6 @@ A professional face-to-face part with high performance that users are familiar w
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>
 
-</td></tr></table>  
 
 
 <hr>
