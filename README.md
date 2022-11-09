@@ -39,7 +39,7 @@ A professional face-to-face part with high performance that users are familiar w
 
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)](https://github-profile-trophy.vercel.app/?username=harrypotter0308&column=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=harrypotter0831&column=8)](https://github-profile-trophy.vercel.app/?username=harrypotter0308&column=8)
 
  <br>
 
