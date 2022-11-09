@@ -4,7 +4,7 @@
   
 
 ### <div align="center">
-I am a highly-skilled full-stack developer with over 6 years of experience in React development.
+I am a highly-skilled full-stack developer with over 6 years of experience in Web and Blockchain development.
 I am proficient in translating designs into high-quality code and implementing highlyresponsive user interface components with React concepts.
 My primary focus is on Web and Blockchain development. 
 I am keen on writing clean and reusable code using best practices
