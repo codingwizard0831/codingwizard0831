@@ -9,21 +9,16 @@
 </p>
 
 
+## Skype: live:.cid.1020da9170a8c7eb
+## Telegram: @codingwiard0831
+## Discord: codingwizard0831
+## Outlook: codingwizard0831@outlook.com
+## Gmail: codingwizard0831@gmail.com
 <div style="display:flex;flex-direction:column">
-  <div style="display:flex;justify-content: center;align-items: center">
-    Skype: live:.cid.1020da9170a8c7eb
-    Telegram: @codingwiard0831
-    Discord: codingwizard0831
-    Outlook: codingwizard0831@outlook.com
-    Gmail: codingwizard0831@gmail.com
-  </div>
-
-  <div>
     My primary focus is on Web and Blockchain development.
     I have been working for the last 6 years as a full-stack engineer.
     What's special about me is that I have a good algorithm in backend development and I have a natural artistic sense, so I come up with good ideas in frontend development and improve the provided design.
     I am keen on writing clean and reusable code using best practices.
-  </div>
 </div>
 
 
