@@ -11,15 +11,11 @@
 
 <div style="display:flex;flex-direction:column">
   <div style="display:flex;justify-content: center;align-items: center">
-    <a style="margin: 5px" href="https://web.skype.com?id=live:.cid.1020da9170a8c7eb">
-      <img src="https://img.shields.io/badge/skype-%230077B5.svg?&style=for-the-badge&logo=skype&logoColor=white" />
-    </a>
-    <a style="margin: 5px" href="mailto:codingwizard0831@gmail.com">
-      <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a style="margin: 5px" href="https://t.me/codingwizard0831">
-      <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
+    Skype: live:.cid.1020da9170a8c7eb
+    Telegram: @codingwiard0831
+    Discord: codingwizard0831
+    Outlook: codingwizard0831@outlook.com
+    Gmail: codingwizard0831@gmail.com
   </div>
 
   <div>
