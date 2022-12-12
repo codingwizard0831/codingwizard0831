@@ -82,6 +82,6 @@
     &nbsp;&nbsp;
     <a href="https://t.me/codingwizard0831" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
     &nbsp;&nbsp;
-    <!-- <a href="https://discord.gg/7AK8VDRu" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a> -->
+    <a href="https://discord.gg/NPDvxBMQ" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
   </div>
 </div>
