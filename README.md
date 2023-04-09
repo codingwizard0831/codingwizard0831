@@ -1,22 +1,20 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-    Senior Full Stack Developer, Blockchain Engineer 
+    Hi, there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20enthusiastic%20and%20Results-driven%20Senior%20Web3%20Engineer;%2B6%20years%20of%20hands-on%20experience;&center=true&width=800&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20enthusiastic%20and%20Results-driven%Full%20Stack%20Developer;%2B6%20years%20of%20hands-on%20experience;&center=true&width=800&height=45">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harrypotter0831/HarryPotter0831/main/developing3.jpg" />
+  <img src="https://raw.githubusercontent.com/harrypotter0831/HarryPotter0831/main/developing2.jpg" />
 </p>
 
 <p align="center">
-    My primary focus is on Web and Blockchain development and I am interested in mobile development.
-    I have been working for the last 6 years as a full-stack engineer.
-    What's special about me is that I have a good algorithm in backend development and I have a natural artistic sense, so I come up with good ideas in frontend development and improve the provided design.
-    I am keen on writing clean and reusable code using best practices.
+    I love the collaborative and open-source nature of the web development community, and I'm excited to share my projects and contributions on GitHub. My goal is to not only continue learning and growing as a developer, but also to contribute to and learn from the amazing projects and people in the GitHub community.
+    Feel free to check out my repositories and connect with me on GitHub. I'm always open to new opportunities and collaborations, so don't hesitate to reach out!
 </p>
 
 <h3>🏆 Github Profile Trophy</h3>
@@ -29,12 +27,13 @@
 
 ## Skills
 
-- 🎉 Frontend : React,Next,Vue,Nuxt,Angular,Svelte,SolidJS,Jquery,Bootstrap,TailwindCSS,Material UI,ChakraUI,React Native,Ionic
-- 🩺 Backend : Node, CI, Laravel, Django, Express, Spring Boot, Ruby on Rails, Nest
+- 🎉 Frontend : React,Next,Vue,Nuxt,Angular,Svelte,SolidJS,Bootstrap,TailwindCSS,Material UI,ChakraUI,React Native,Ionic
+- 🩺 Backend : Node, Laravel, Django, Flask, CI, ASP.NET
+-  Mobile: React Native, React Ionic
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, SQLite
-- ⛓️ Blockchain: Solidity, Rust, Smart contract, Web3/Ethers.js, NFT Marketplace/Auction, Launchpad/DAO/ICO/IDO platforms, CEX/DEX/Defi, Crypto wallets/Trading Apps
-- 💬 Language : HTML, CSS, Javascript, Typescript, C, C++, C#, Ruby, Python, PHP, Solidity, Rust
-- 📫 Interesting : Unity, D3, AI
+- ⛓️ Blockchain: Smart contract, Web3/Ethers.js, NFT Marketplace/Auction, Launchpad/DEX/Defi
+- 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, Solidity, C, C++, C#
+- 📫 Interesting : Unity, AI
 
 ## Languagers & Tools
 
@@ -50,9 +49,6 @@
 <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
 <code><img height="45" width="45" src="https://camo.githubusercontent.com/b68ee2443882c03a011ea49e1b6bcbe7bd994e1da6a980291557a3fd89348322/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d36342f707974686f6e2d322d3232363035312e706e67" alt='python'></code>
 <code><img height="45" width="45" src="https://camo.githubusercontent.com/c617d01a7ffe0d5033ba5605b5097d1e09603d9e9ca3cb9ae1b2ab6a30d1f6dc/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d36342f646a616e676f2d31312d313137353033362e706e67" alt='django'></code>
-<code><img height="45" width="45" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg"></code>
-<code><img height="45" width="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs8Blzp6aega6pMnSJ_l9X6c_tUHTGJ3YiEZ1raKjYe08Ihuw07LTHexzHkwlsI9hZhTk&usqp=CAU" alt="ruby"></code>
-<code><img height="45" width="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmI7XX65yG1TKMJhJaAXnYp2Dn48bVOqP7wNByu2A9Jdx2FRIm9EOLb-RqhKKLyK1Vwxc&usqp=CAU" alt='rail'></code>
 <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
