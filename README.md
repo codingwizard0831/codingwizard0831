@@ -16,6 +16,7 @@
     My primary focus is on Web and Blockchain development and I am interested in mobile development.<br />
     I have been working for the last 6 years as a software engineer.
     What's special about me is that I have a good algorithm in backend development and I have a natural artistic sense, so I come up with good ideas in frontend development and improve the provided design.
+    Also the strength of me is that I am Always Sensitive to modern technologies and Open to New things.
     I am keen on writing clean and reusable code using best practices.
 </p>
 
