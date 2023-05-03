@@ -22,17 +22,17 @@
 
 <h3 align="center">🏆 Github Profile Trophy</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harrypotter0831&column=7&theme=onedark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=VolodymyrBorsuk&column=7&theme=onedark"/>
 </p>
 <!-- <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=harrypotter0831&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=VolodymyrBorsuk&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
 </p> -->
 
-<!-- ![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harrypotter0831&theme=tokyonight) -->
+<!-- ![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VolodymyrBorsuk&theme=tokyonight) -->
 <div align = "center">
 
-![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harrypotter0831&theme=tokyonight)
-![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harrypotter0831&theme=tokyonight)
+![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VolodymyrBorsuk&theme=tokyonight)
+![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VolodymyrBorsuk&theme=tokyonight)
 
 </div>
 
