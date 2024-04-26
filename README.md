@@ -22,17 +22,17 @@
 
 <h3 align="center">🏆 Github Profile Trophy</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codingwizard0831&column=7&theme=onedark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=codingenchanter725&column=7&theme=onedark"/>
 </p>
 <!-- <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=codingwizard0831&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=codingenchanter725&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
 </p> -->
 
-<!-- ![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codingwizard0831&theme=tokyonight) -->
+<!-- ![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codingenchanter725&theme=tokyonight) -->
 <div align = "center">
 
-![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codingwizard0831&theme=tokyonight)
-![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codingwizard0831&theme=tokyonight)
+![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codingenchanter725&theme=tokyonight)
+![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codingenchanter725&theme=tokyonight)
 
 </div>
 
@@ -211,23 +211,3 @@
 <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="45" width="45" src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67"></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/npm/npm-original-wordmark.svg" alt="NPM" width="45" height="45"/></code>
-
-### 💫 About Me: [![](https://visitcount.itsvg.in/api?id=codingwizard0831&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<div align="center">
-  <h2>
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
-      How to reach me
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
-  </h2>
-
-  <div align="center"> 
-    <a href="mailto:codingwizard0831@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
-    &nbsp;&nbsp;
-    <a href="https://join.skype.com/invite/pRUCZKE56reb" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
-    &nbsp;&nbsp;
-    <a href="https://t.me/codingwizard0831" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
-    &nbsp;&nbsp;
-    <a href="https://discord.gg/NPDvxBMQ" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
-  </div>
-</div>
