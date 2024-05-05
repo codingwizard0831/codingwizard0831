@@ -21,18 +21,38 @@ Deadline-driven and committed to excellence, I strive to remain at the cutting e
 </p>
 
 <h3 align="center">🏆 Github Profile Trophy</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codingenchanter725&column=7&theme=onedark"/>
-</p>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=codingenchanter725&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
-</p>
 
-![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codingenchanter725&theme=tokyonight)
-<div align = "center">
 
-![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codingenchanter725&theme=tokyonight)
-![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codingenchanter725&theme=tokyonight)
+<table>
+<tr align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codingenchanter725&theme=blueberry)
+<tr>
+
+</tr>
+<td>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codingenchanter725&theme=blueberry)
+</td>
+<td>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codingenchanter725&theme=blueberry)
+</td>
+</tr>
+
+<tr>
+<td>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codingenchanter725&theme=blueberry)
+</td>
+<td>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codingenchanter725&theme=blueberry&utcOffset=8)
+</td>
+</tr>
+</table>
+
+
 
 </div>
 
