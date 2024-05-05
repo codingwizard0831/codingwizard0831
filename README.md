@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
-    My primary focus is on Web and Blockchain development and I am interested in mobile development.<br />
-    I have been working for the last 6 years as a software engineer.
-    What's special about me is that I have a good algorithm in backend development and I have a natural artistic sense, so I come up with good ideas in frontend development and improve the provided design.
-    Also the strength of me is that I am Always Sensitive to modern technologies and Open to New things.
-    I am keen on writing clean and reusable code using best practices.
+With a proven track record as a full-stack developer, I specialize in delivering innovative solutions that drive reliable results. My professional journey is marked by efficient execution and the development of high-quality software that meets and exceeds project objectives. As a dedicated professional, I bring a thorough understanding of technology stacks to each challenge, ensuring a holistic approach to problem-solving.
+
+I am recognized for my ability to communicate complex concepts effectively to all stakeholders, ensuring alignment and understanding across diverse teams. This skill has made me an enthusiastic collaborator and a key contributor to successful projects.
+
+Deadline-driven and committed to excellence, I strive to remain at the cutting edge of technology, constantly integrating the latest innovations into my work to enhance outcomes. My commitment to this dynamic field is fueled by a passion for creating software solutions that not only perform exceptionally but also deliver significant value to users.
 </p>
 
 <h3 align="center">🏆 Github Profile Trophy</h3>
@@ -40,6 +40,24 @@
 
 <table>
   <tr>
+    <td valign="center"><b>*<b></td>
+  </tr>
+  <tr>
+    <td valign="center" align="center">
+      <img src="https://img.shields.io/badge/8+hours per day-blue" />
+      <img src="https://img.shields.io/badge/Attention to detail-blue" />
+      <img src="https://img.shields.io/badge/Willingness to learn-blue" />
+      <img src="https://img.shields.io/badge/Collaborative mindset-blue" />
+      <img src="https://img.shields.io/badge/Customer centric approach-blue" />
+      <img src="https://img.shields.io/badge/Dedication to quzlity-blue" />
+      <img src="https://img.shields.io/badge/String work ethic-blue" />
+      <img src="https://img.shields.io/badge/Creative problem solving skills-blue" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td valign="center" width="200px"><b>Language<b></td>
     <td valign="center" width="200px"><b>Sepcial<b></td>
   </tr>
@@ -53,9 +71,9 @@
       <img src="https://img.shields.io/badge/Python-blue" /> 
       <img src="https://img.shields.io/badge/C-blue" /> 
       <img src="https://img.shields.io/badge/C++-blue" /> 
-      <img src="https://img.shields.io/badge/Java-blue" /> 
       <img src="https://img.shields.io/badge/Liquid-blue" /> 
       <img src="https://img.shields.io/badge/Solidity-blue" /> 
+      <img src="https://img.shields.io/badge/Rust-blue" /> 
     </td>      
     <td valign="center" align="center" width="400px">
       <img src="https://img.shields.io/badge/WebRTC-blue" />
@@ -63,6 +81,9 @@
       <img src="https://img.shields.io/badge/websocket-blue" />
       <img src="https://img.shields.io/badge/ChatGPT-blue" />
       <img src="https://img.shields.io/badge/Web Scrapping-blue" />
+      <img src="https://img.shields.io/badge/Firebase-blue" />
+      <img src="https://img.shields.io/badge/Graphql-blue" />
+      <img src="https://img.shields.io/badge/Convex-blue" />
     </td>
   </tr>
 </table>
@@ -87,24 +108,51 @@
       <img src="https://img.shields.io/badge/Chart.js-blue" />
       <img src="https://img.shields.io/badge/Jquery-blue" />
       <img src="https://img.shields.io/badge/Antd-blue" />
+      <img src="https://img.shields.io/badge/Headless-blue" />
     </td>      
     <td valign="center" align="center" width="300px">
       <img src="https://img.shields.io/badge/Node.js-blue" /> 
       <img src="https://img.shields.io/badge/Express-blue" /> 
       <img src="https://img.shields.io/badge/Laravel-blue" /> 
-      <img src="https://img.shields.io/badge/Codeigniter-blue" /> 
       <img src="https://img.shields.io/badge/Django-blue" /> 
       <img src="https://img.shields.io/badge/Flask-blue" /> 
       <img src="https://img.shields.io/badge/Fastapi-blue" /> 
+      <img src="https://img.shields.io/badge/Nest-blue" /> 
       <img src="https://img.shields.io/badge/ASP.NET-blue" /> 
       <img src="https://img.shields.io/badge/Spring Boot-blue" /> 
     </td>
     <td valign="center" align="center" width="300px">
+      <img src="https://img.shields.io/badge/Flutter-blue" /> 
       <img src="https://img.shields.io/badge/React Native-blue" /> 
       <img src="https://img.shields.io/badge/React Ionic-blue" /> 
       <img src="https://img.shields.io/badge/Angular Ionic-blue" /> 
-      <img src="https://img.shields.io/badge/Flutter-blue" /> 
       <img src="https://img.shields.io/badge/Swift-blue" /> 
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="center"><b>AI & Bot & Automation<b></td>
+    <td valign="center"><b>Interesting<b></td>
+  </tr>
+  <tr>
+    <td valign="center" align="center">
+      <img src="https://img.shields.io/badge/AI Chatbot-blue" />
+      <img src="https://img.shields.io/badge/ChatGPT-blue" />
+      <img src="https://img.shields.io/badge/Telegram Bot-blue" />
+      <img src="https://img.shields.io/badge/Langchain-blue" />
+      <img src="https://img.shields.io/badge/Deep learning-blue" />
+      <img src="https://img.shields.io/badge/OpenCV-blue" />
+      <img src="https://img.shields.io/badge/Machine Learning-blue" />
+      <img src="https://img.shields.io/badge/TensorFlow-blue" />
+      <img src="https://img.shields.io/badge/LLM Prompt Engineering-blue" />
+      <img src="https://img.shields.io/badge/Generative AI Prompt Engineering-blue" />
+    </td>
+    <td valign="center" align="center">
+      <img src="https://img.shields.io/badge/Ruby-blue" />
+      <img src="https://img.shields.io/badge/Golang-blue" />
+      <img src="https://img.shields.io/badge/Unity-blue" />
     </td>
   </tr>
 </table>
@@ -123,91 +171,43 @@
       <img src="https://img.shields.io/badge/Smart Contract-blue" /> 
       <img src="https://img.shields.io/badge/Bitcoin-blue" />
       <img src="https://img.shields.io/badge/NFT Marketplace/Auction-blue" />
-      <img src="https://img.shields.io/badge/Launchpad/DEX/Defi-blue" />
+      <img src="https://img.shields.io/badge/Launchpad/DEX/CEX/Defi-blue" />
     </td>
     <td valign="center" align="center" width="300px">
       <img src="https://img.shields.io/badge/AWS-blue" /> 
-      <img src="https://img.shields.io/badge/Netlify-blue" /> 
+      <img src="https://img.shields.io/badge/GCP-blue" /> 
       <img src="https://img.shields.io/badge/Heroku-blue" /> 
-      <img src="https://img.shields.io/badge/Vercel-blue" /> 
-      <img src="https://img.shields.io/badge/Ubuntu-blue" /> 
-      <img src="https://img.shields.io/badge/Jira-blue" /> 
-      <img src="https://img.shields.io/badge/CI/CD-blue" /> 
-      <img src="https://img.shields.io/badge/Docker-blue" /> 
-      <img src="https://img.shields.io/badge/Firebase-blue" /> 
-      <img src="https://img.shields.io/badge/GraphQL-blue" /> 
+      <img src="https://img.shields.io/badge/Netlify-blue" /> 
+      <img src="https://img.shields.io/badge/Vercel-blue" />
+      <img src="https://img.shields.io/badge/CI/CD-blue" />
+      <img src="https://img.shields.io/badge/Docker-blue" />
     </td>
     <td valign="center" align="center" width="300px">
-      <img src="https://img.shields.io/badge/MySQL-blue" /> 
-      <img src="https://img.shields.io/badge/SQLite-blue" /> 
       <img src="https://img.shields.io/badge/MongoDB-blue" /> 
       <img src="https://img.shields.io/badge/PostgreSQL-blue" />
+      <img src="https://img.shields.io/badge/MySQL-blue" /> 
+      <img src="https://img.shields.io/badge/SQLite-blue" /> 
     </td>
   </tr>
 </table>
 
 
-<table>
-  <tr>
-    <td valign="center"><b>*<b></td>
-    <td valign="center"><b>Interesting<b></td>
-  </tr>
-  <tr>
-    <td valign="center" align="center">
-      <img src="https://img.shields.io/badge/8+hours per day-blue" />
-      <img src="https://img.shields.io/badge/Attention to detail-blue" />
-      <img src="https://img.shields.io/badge/Willingness to learn-blue" />
-      <img src="https://img.shields.io/badge/Collaborative mindset-blue" />
-      <img src="https://img.shields.io/badge/Customer centric approach-blue" />
-      <img src="https://img.shields.io/badge/Dedication to quzlity-blue" />
-      <img src="https://img.shields.io/badge/String work ethic-blue" />
-      <img src="https://img.shields.io/badge/Creative problem solving skills-blue" />
-    </td>
-    <td valign="center" align="center">
-      <img src="https://img.shields.io/badge/Ruby-blue" />
-      <img src="https://img.shields.io/badge/Golang-blue" />
-      <img src="https://img.shields.io/badge/Unity-blue" />
-      <img src="https://img.shields.io/badge/Rust-blue" />
-      <img src="https://img.shields.io/badge/AI-blue" />
-    </td>
-  </tr>
-</table>
+## Language
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,ts,python,php,c,cpp,cs,solidity,rust,go)](https://skillicons.dev)
 
-## Skills
+## Skill
+[![My Skills](https://skillicons.dev/icons?i=react,next,solidjs,vue,nuxt,angular,svelte,nodejs,nestjs,ember,laravel,django,flask,fastapi,dotnet,wordpress)](https://skillicons.dev)
 
-<code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="45" width="45" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
-<code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="45" width="45" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"></code>
-<code><img height="45" width="45" src="https://angular.io/assets/images/logos/angular/angular.svg"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="45" height="45" /></code>
-<code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/express/express-original-wordmark.svg" alt="Express JS" width="45" height="45"/></code>
-<code><img height="45" width="45" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg"></code>
-<code><img height="45" width="45" src="https://camo.githubusercontent.com/263164b2849cb40f0c6eaea2cf8406dda9d124aefce42ab5bd30f83d3133aef0/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d36342f6c61726176656c2d3232363031352e706e67" alt='laravel'></code>
-<code><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="45" height="45" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/flask/flask-original.svg" alt="flask" width="45" height="45"/></code>
-<code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
-<code><img src="https://camo.githubusercontent.com/dc116831bf292fd01b8013ccafbbf6ae8fc9ff45e7741c1719284957b225d691/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f642f64312f496f6e69635f4c6f676f2e737667" alt="ionic" width="45" height="45" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg"></code>
-<code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="45" width="45" src="https://camo.githubusercontent.com/b68ee2443882c03a011ea49e1b6bcbe7bd994e1da6a980291557a3fd89348322/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d36342f707974686f6e2d322d3232363035312e706e67" alt='python'></code>
-<code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/c/c-original.svg" alt="c" width="45" height="45"/></code> 
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45" height="45"/></code>
-<code><img height="45" width="45" src="https://camo.githubusercontent.com/be406e7fcc11cd6204d544a8e1e3a168cd57a6fbf1d3b455830feeb85ef1ec76/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6373686172702f6373686172702d6f726967696e616c2e737667" alt='C#'></code>
-<code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="45" width="45" src="https://icons-for-free.com/iconfiles/png/512/jquery+icon-1320185152994214115.png" alt='tailwind'></code>
-<code><img height="45" width="45" src="https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="45" height="45" /></code>
-<code><img height="45" width="45" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-226047.png"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/heroku/heroku-original.svg" alt="heroku" width="45" height="45"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bitbucket/bitbucket-original-wordmark.svg" alt="BitBucket" width="45" height="45"/></code>
-<code><img height="45" width="45" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
-<code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" ></code>
-<code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="45" width="45" src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/npm/npm-original-wordmark.svg" alt="NPM" width="45" height="45"/></code>
+[![My Skills](https://skillicons.dev/icons?i=tailwind,mui,vuetify,bootstrap,sass,less,threejs,supabase,prisma,jquery,d3,jest,cypress,gatsby,electron,sequelize,redux,regex,vite,tensorflow,opencv,misskey)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,)](https://skillicons.dev)
+
+## Database & Experience
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgresql,redis,dynamodb,graphql,firebase,ipfs)](https://skillicons.dev)
+
+## Dev Ops
+[![My Skills](https://skillicons.dev/icons?i=docker,ubuntu,linux,heroku,npm,yarn,aws,gcp,vercel,netlify,nginx,bash,github,gitlab,git,bitbucket)](https://skillicons.dev)
+
+## Tool
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,ps,vscode,webstorm,sublime,pycharm,phpstorm)](https://skillicons.dev)
+
