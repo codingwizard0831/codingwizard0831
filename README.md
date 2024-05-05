@@ -24,11 +24,11 @@ Deadline-driven and committed to excellence, I strive to remain at the cutting e
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=codingenchanter725&column=7&theme=onedark"/>
 </p>
-<!-- <p align = "center">
+<p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=codingenchanter725&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
-</p> -->
+</p>
 
-<!-- ![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codingenchanter725&theme=tokyonight) -->
+![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codingenchanter725&theme=tokyonight)
 <div align = "center">
 
 ![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codingenchanter725&theme=tokyonight)
@@ -200,7 +200,6 @@ Deadline-driven and committed to excellence, I strive to remain at the cutting e
 [![My Skills](https://skillicons.dev/icons?i=react,next,solidjs,vue,nuxt,angular,svelte,nodejs,nestjs,ember,laravel,django,flask,fastapi,dotnet,wordpress)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind,mui,vuetify,bootstrap,sass,less,threejs,supabase,prisma,jquery,d3,jest,cypress,gatsby,electron,sequelize,redux,regex,vite,tensorflow,opencv,misskey)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,)](https://skillicons.dev)
 
 ## Database & Experience
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgresql,redis,dynamodb,graphql,firebase,ipfs)](https://skillicons.dev)
