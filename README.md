@@ -24,12 +24,6 @@ Deadline-driven and committed to excellence, I strive to remain at the cutting e
 
 
 <table>
-<tr align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codingenchanter725&theme=blueberry)
-<tr>
-
-</tr>
 <td>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codingenchanter725&theme=blueberry)
