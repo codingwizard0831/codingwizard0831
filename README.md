@@ -26,11 +26,11 @@ Deadline-driven and committed to excellence, I strive to remain at the cutting e
 <table>
 <td>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codingenchanter725&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gotoenchanter725&theme=blueberry)
 </td>
 <td>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codingenchanter725&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gotoenchanter725&theme=blueberry)
 </td>
 </tr>
 </table>
@@ -128,7 +128,6 @@ Deadline-driven and committed to excellence, I strive to remain at the cutting e
       <img src="https://img.shields.io/badge/Flutter-blue" /> 
       <img src="https://img.shields.io/badge/React Native-blue" /> 
       <img src="https://img.shields.io/badge/React Ionic-blue" /> 
-      <img src="https://img.shields.io/badge/Angular Ionic-blue" /> 
       <img src="https://img.shields.io/badge/Swift-blue" /> 
     </td>
   </tr>
@@ -166,7 +165,6 @@ Deadline-driven and committed to excellence, I strive to remain at the cutting e
       <img src="https://img.shields.io/badge/Ethers.js-blue" /> 
       <img src="https://img.shields.io/badge/Solidity-blue" />
       <img src="https://img.shields.io/badge/Smart Contract-blue" /> 
-      <img src="https://img.shields.io/badge/Bitcoin-blue" />
       <img src="https://img.shields.io/badge/NFT Marketplace/Auction-blue" />
       <img src="https://img.shields.io/badge/Launchpad/DEX/CEX/Defi-blue" />
     </td>
