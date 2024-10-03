@@ -137,7 +137,6 @@ Deadline-driven and committed to excellence, I strive to remain at the cutting e
 <table>
   <tr>
     <td valign="center"><b>AI & Bot & Automation<b></td>
-    <td valign="center"><b>Interesting<b></td>
   </tr>
   <tr>
     <td valign="center" align="center">
@@ -151,11 +150,6 @@ Deadline-driven and committed to excellence, I strive to remain at the cutting e
       <img src="https://img.shields.io/badge/TensorFlow-blue" />
       <img src="https://img.shields.io/badge/LLM Prompt Engineering-blue" />
       <img src="https://img.shields.io/badge/Generative AI Prompt Engineering-blue" />
-    </td>
-    <td valign="center" align="center">
-      <img src="https://img.shields.io/badge/Ruby-blue" />
-      <img src="https://img.shields.io/badge/Golang-blue" />
-      <img src="https://img.shields.io/badge/Unity-blue" />
     </td>
   </tr>
 </table>
@@ -208,14 +202,12 @@ Deadline-driven and committed to excellence, I strive to remain at the cutting e
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,laravel,django,flask,fastapi)](https://skillicons.dev)
 
 ## Library & Experience
-[![My Skills](https://skillicons.dev/icons?i=tailwind,mui,vuetify,gatsby,bootstrap,jquery,sass,less,threejs,d3,redux,regex)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=supabase,prisma,sequelize,vite,jest,cypress,electron,tensorflow,opencv,graphql,firebase,ipfs)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=tailwind,mui,bootstrap,jquery,threejs,supabase,firebase)](https://skillicons.dev)
 
 ## Database & Experience
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgresql,redis,dynamodb)](https://skillicons.dev)
 
 ## Dev Ops
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,nginx,docker,ubuntu,linux,heroku,npm,yarn,github,gitlab,bitbucket)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,nginx,docker,ubuntu,linux,heroku,github,gitlab,bitbucket)](https://skillicons.dev)
 
 
