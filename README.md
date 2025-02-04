@@ -26,11 +26,11 @@ Deadline-driven and committed to excellence, I strive to remain at the cutting e
 <table>
 <td>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gotoenchanter725&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codingwizard0831&theme=blueberry)
 </td>
 <td>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gotoenchanter725&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codingwizard0831&theme=blueberry)
 </td>
 </tr>
 </table>
@@ -72,21 +72,17 @@ Deadline-driven and committed to excellence, I strive to remain at the cutting e
       <img src="https://img.shields.io/badge/TypeScript-blue" /> 
       <img src="https://img.shields.io/badge/PHP-blue" /> 
       <img src="https://img.shields.io/badge/Python-blue" /> 
-      <img src="https://img.shields.io/badge/C-blue" /> 
-      <img src="https://img.shields.io/badge/C++-blue" /> 
+      <!-- <img src="https://img.shields.io/badge/C-blue" /> 
+      <img src="https://img.shields.io/badge/C++-blue" />  -->
       <img src="https://img.shields.io/badge/Liquid-blue" /> 
       <img src="https://img.shields.io/badge/Solidity-blue" /> 
-      <img src="https://img.shields.io/badge/Rust-blue" /> 
+      <!-- <img src="https://img.shields.io/badge/Rust-blue" />  -->
     </td>      
     <td valign="center" align="center" width="400px">
-      <img src="https://img.shields.io/badge/WebRTC-blue" />
-      <img src="https://img.shields.io/badge/Socket.io-blue" />
       <img src="https://img.shields.io/badge/websocket-blue" />
       <img src="https://img.shields.io/badge/ChatGPT-blue" />
       <img src="https://img.shields.io/badge/Web Scrapping-blue" />
-      <img src="https://img.shields.io/badge/Firebase-blue" />
-      <img src="https://img.shields.io/badge/Graphql-blue" />
-      <img src="https://img.shields.io/badge/Convex-blue" />
+      <img src="https://img.shields.io/badge/Glass Morphisam Design-blue" />
     </td>
   </tr>
 </table>
@@ -101,39 +97,39 @@ Deadline-driven and committed to excellence, I strive to remain at the cutting e
       <img src="https://img.shields.io/badge/React-blue" /> 
       <img src="https://img.shields.io/badge/Next-blue" /> 
       <img src="https://img.shields.io/badge/Vue-blue" /> 
-      <img src="https://img.shields.io/badge/Nuxt-blue" /> 
-      <img src="https://img.shields.io/badge/Angular-blue" /> 
-      <img src="https://img.shields.io/badge/Svelte-blue" /> 
-      <img src="https://img.shields.io/badge/Solidjs-blue" /> 
+      <!-- <img src="https://img.shields.io/badge/Nuxt-blue" />  -->
+      <!-- <img src="https://img.shields.io/badge/Angular-blue" />  -->
+      <!-- <img src="https://img.shields.io/badge/Svelte-blue" />  -->
+      <!-- <img src="https://img.shields.io/badge/Solidjs-blue" />  -->
       <img src="https://img.shields.io/badge/Bootstrap-blue" /> 
       <img src="https://img.shields.io/badge/Tailwind-blue" />
       <img src="https://img.shields.io/badge/MUI-blue" /> 
-      <img src="https://img.shields.io/badge/Chart.js-blue" />
-      <img src="https://img.shields.io/badge/Jquery-blue" />
-      <img src="https://img.shields.io/badge/Antd-blue" />
-      <img src="https://img.shields.io/badge/Headless-blue" />
+      <!-- <img src="https://img.shields.io/badge/Chart.js-blue" /> -->
+      <!-- <img src="https://img.shields.io/badge/Jquery-blue" /> -->
+      <!-- <img src="https://img.shields.io/badge/Antd-blue" /> -->
+      <!-- <img src="https://img.shields.io/badge/Headless-blue" /> -->
     </td>      
     <td valign="center" align="center" width="300px">
-      <img src="https://img.shields.io/badge/Node.js-blue" /> 
-      <img src="https://img.shields.io/badge/Express-blue" /> 
-      <img src="https://img.shields.io/badge/Laravel-blue" /> 
       <img src="https://img.shields.io/badge/Django-blue" /> 
+      <img src="https://img.shields.io/badge/Laravel-blue" /> 
+      <img src="https://img.shields.io/badge/Node.js-blue" /> 
+      <!-- <img src="https://img.shields.io/badge/Express-blue" />  -->
       <img src="https://img.shields.io/badge/Flask-blue" /> 
       <img src="https://img.shields.io/badge/Fastapi-blue" /> 
-      <img src="https://img.shields.io/badge/Nest-blue" /> 
-      <img src="https://img.shields.io/badge/ASP.NET-blue" /> 
-      <img src="https://img.shields.io/badge/Spring Boot-blue" /> 
+      <!-- <img src="https://img.shields.io/badge/Nest-blue" />  -->
+      <!-- <img src="https://img.shields.io/badge/ASP.NET-blue" />  -->
+      <!-- <img src="https://img.shields.io/badge/Spring Boot-blue" />  -->
     </td>
     <td valign="center" align="center" width="300px">
       <img src="https://img.shields.io/badge/Flutter-blue" /> 
       <img src="https://img.shields.io/badge/React Native-blue" /> 
       <img src="https://img.shields.io/badge/React Ionic-blue" /> 
-      <img src="https://img.shields.io/badge/Swift-blue" /> 
+      <!-- <img src="https://img.shields.io/badge/Swift-blue" />  -->
     </td>
   </tr>
 </table>
 
-<table>
+<!-- <table>
   <tr>
     <td valign="center"><b>AI & Bot & Automation<b></td>
   </tr>
@@ -151,7 +147,7 @@ Deadline-driven and committed to excellence, I strive to remain at the cutting e
       <img src="https://img.shields.io/badge/Generative AI Prompt Engineering-blue" />
     </td>
   </tr>
-</table>
+</table> -->
   
  <table>
   <tr>
@@ -165,15 +161,14 @@ Deadline-driven and committed to excellence, I strive to remain at the cutting e
       <img src="https://img.shields.io/badge/Ethers.js-blue" /> 
       <img src="https://img.shields.io/badge/Solidity-blue" />
       <img src="https://img.shields.io/badge/Smart Contract-blue" /> 
-      <img src="https://img.shields.io/badge/NFT Marketplace/Auction-blue" />
-      <img src="https://img.shields.io/badge/Launchpad/DEX/CEX/Defi-blue" />
+      <img src="https://img.shields.io/badge/NFT Marketplace-blue" />
+      <img src="https://img.shields.io/badge/DEX-blue" />
     </td>
     <td valign="center" align="center" width="300px">
       <img src="https://img.shields.io/badge/AWS-blue" /> 
       <img src="https://img.shields.io/badge/GCP-blue" /> 
-      <img src="https://img.shields.io/badge/Heroku-blue" /> 
-      <img src="https://img.shields.io/badge/Netlify-blue" /> 
-      <img src="https://img.shields.io/badge/Vercel-blue" />
+      <img src="https://img.shields.io/badge/DigitalOcean-blue" /> 
+      <img src="https://img.shields.io/badge/Azure-blue" /> 
       <img src="https://img.shields.io/badge/Hostinger-blue" />
       <img src="https://img.shields.io/badge/CI/CD-blue" />
       <img src="https://img.shields.io/badge/Docker-blue" />
@@ -190,14 +185,14 @@ Deadline-driven and committed to excellence, I strive to remain at the cutting e
 </table>
 
 
-## Language
+<!-- ## Language
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,ts,python,php,c,cpp,cs,solidity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,ts,python,php,cs,solidity)](https://skillicons.dev)
 
 ## Frameworks & Experience
-[![My Skills](https://skillicons.dev/icons?i=react,next,solidjs,vue,nuxt,angular,svelte)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,vue,angular)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,laravel,django,flask,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,nodejs,laravel,flask,fastapi)](https://skillicons.dev)
 
 ## Library & Experience
 [![My Skills](https://skillicons.dev/icons?i=tailwind,mui,bootstrap,jquery,threejs,supabase,firebase)](https://skillicons.dev)
@@ -208,4 +203,4 @@ Deadline-driven and committed to excellence, I strive to remain at the cutting e
 ## Dev Ops
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,nginx,docker,ubuntu,linux,heroku,github,gitlab,bitbucket)](https://skillicons.dev)
 
-
+ -->
