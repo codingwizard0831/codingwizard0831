@@ -62,7 +62,7 @@ Deadline-driven and committed to excellence, I strive to remain at the cutting e
 <table>
   <tr>
     <td valign="center" width="200px"><b>Language<b></td>
-    <td valign="center" width="200px"><b>Sepcial<b></td>
+    <td valign="center" width="200px"><b>Special<b></td>
   </tr>
   <tr>
     <td valign="center" align="center" width="400px">
@@ -77,10 +77,10 @@ Deadline-driven and committed to excellence, I strive to remain at the cutting e
       <img src="https://img.shields.io/badge/Liquid-blue" /> 
       <img src="https://img.shields.io/badge/Solidity-blue" /> 
       <!-- <img src="https://img.shields.io/badge/Rust-blue" />  -->
-    </td>      
+    </td>
     <td valign="center" align="center" width="400px">
-      <img src="https://img.shields.io/badge/websocket-blue" />
-      <img src="https://img.shields.io/badge/ChatGPT-blue" />
+      <img src="https://img.shields.io/badge/Three.js-blue" />
+      <img src="https://img.shields.io/badge/Socket.io-blue" />
       <img src="https://img.shields.io/badge/Web Scrapping-blue" />
       <img src="https://img.shields.io/badge/Glass Morphisam Design-blue" />
     </td>
@@ -97,11 +97,11 @@ Deadline-driven and committed to excellence, I strive to remain at the cutting e
       <img src="https://img.shields.io/badge/React-blue" /> 
       <img src="https://img.shields.io/badge/Next-blue" /> 
       <img src="https://img.shields.io/badge/Vue-blue" /> 
-      <!-- <img src="https://img.shields.io/badge/Nuxt-blue" />  -->
-      <!-- <img src="https://img.shields.io/badge/Angular-blue" />  -->
+      <img src="https://img.shields.io/badge/Nuxt-blue" /> 
+      <img src="https://img.shields.io/badge/Angular-blue" /> 
       <!-- <img src="https://img.shields.io/badge/Svelte-blue" />  -->
       <!-- <img src="https://img.shields.io/badge/Solidjs-blue" />  -->
-      <img src="https://img.shields.io/badge/Bootstrap-blue" /> 
+      <img src="https://img.shields.io/badge/Shadcn-blue" /> 
       <img src="https://img.shields.io/badge/Tailwind-blue" />
       <img src="https://img.shields.io/badge/MUI-blue" /> 
       <!-- <img src="https://img.shields.io/badge/Chart.js-blue" /> -->
@@ -120,10 +120,12 @@ Deadline-driven and committed to excellence, I strive to remain at the cutting e
       <!-- <img src="https://img.shields.io/badge/ASP.NET-blue" />  -->
       <!-- <img src="https://img.shields.io/badge/Spring Boot-blue" />  -->
     </td>
-    <td valign="center" align="center" width="300px">
-      <img src="https://img.shields.io/badge/Flutter-blue" /> 
+    <td valign="center" align="center" width="300px"> 
       <img src="https://img.shields.io/badge/React Native-blue" /> 
-      <img src="https://img.shields.io/badge/React Ionic-blue" /> 
+      <img src="https://img.shields.io/badge/Flutter-blue" />
+      <img src="https://img.shields.io/badge/Swift-blue" /> 
+      <img src="https://img.shields.io/badge/Kotlin-blue" /> 
+      <img src="https://img.shields.io/badge/Objective C-blue" /> 
       <!-- <img src="https://img.shields.io/badge/Swift-blue" />  -->
     </td>
   </tr>
